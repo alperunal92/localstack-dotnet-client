@@ -1,0 +1,11 @@
+<Project>
+  <PropertyGroup>
+    <Authors>LocalStack.NET, alper unal
+	</Authors>
+    <Company>LocalStack.NET</Company>
+    <Owners>LocalStack.NET</Owners>
+    <PackageIconUrl>https://raw.githubusercontent.com/localstack-dotnet/localstack-dotnet-client/master/assets/localstack-dotnet-square.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/alperunal92/localstack-dotnet-client/</PackageProjectUrl>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+</Project>
